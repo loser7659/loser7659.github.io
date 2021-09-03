@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>teste</title>
+      <link href="posts/14264.html"/>
+      <url>posts/14264.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 感一点悟 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>test2</title>
+      <link href="posts/51705.html"/>
+      <url>posts/51705.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> code </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>部署教程</title>
       <link href="posts/2483.html"/>
       <url>posts/2483.html</url>
@@ -13,7 +67,7 @@
       
       <categories>
           
-          <category> Blog </category>
+          <category> 从一开始 </category>
           
       </categories>
       
@@ -40,7 +94,7 @@
       
       <categories>
           
-          <category> 随笔 </category>
+          <category> 记一件事 </category>
           
       </categories>
       
