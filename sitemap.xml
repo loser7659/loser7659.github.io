@@ -114,13 +114,6 @@
   </url>
   
   <url>
-    <loc>https://www.loserk.xyz/supervise/index.html</loc>
-    
-    <lastmod>2021-05-25</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.loserk.xyz/rewardModal/index.html</loc>
     
     <lastmod>2021-05-25</lastmod>
@@ -128,7 +121,7 @@
   </url>
   
   <url>
-    <loc>https://www.loserk.xyz/time/index.html</loc>
+    <loc>https://www.loserk.xyz/supervise/index.html</loc>
     
     <lastmod>2021-05-25</lastmod>
     
@@ -136,6 +129,13 @@
   
   <url>
     <loc>https://www.loserk.xyz/tags/index.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/time/index.html</loc>
     
     <lastmod>2021-05-25</lastmod>
     
