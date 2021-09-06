@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.loserk.xyz/posts/37400.html</loc>
+    
+    <lastmod>2021-09-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/posts/23565.html</loc>
+    
+    <lastmod>2021-09-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/posts/36146.html</loc>
+    
+    <lastmod>2021-09-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/posts/23767.html</loc>
+    
+    <lastmod>2021-09-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/posts/63249.html</loc>
+    
+    <lastmod>2021-09-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.loserk.xyz/posts/35737.html</loc>
     
     <lastmod>2021-09-05</lastmod>
@@ -121,13 +156,6 @@
   </url>
   
   <url>
-    <loc>https://www.loserk.xyz/rewardModal/index.html</loc>
-    
-    <lastmod>2021-05-25</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.loserk.xyz/navigate/index.html</loc>
     
     <lastmod>2021-05-25</lastmod>
@@ -135,7 +163,7 @@
   </url>
   
   <url>
-    <loc>https://www.loserk.xyz/supervise/index.html</loc>
+    <loc>https://www.loserk.xyz/rewardModal/index.html</loc>
     
     <lastmod>2021-05-25</lastmod>
     
@@ -143,6 +171,13 @@
   
   <url>
     <loc>https://www.loserk.xyz/tags/index.html</loc>
+    
+    <lastmod>2021-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/supervise/index.html</loc>
     
     <lastmod>2021-05-25</lastmod>
     
@@ -163,6 +198,27 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://www.loserk.xyz/tags/vue/</loc>
+    <lastmod>2021-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/tags/axios/</loc>
+    <lastmod>2021-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2021-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>https://www.loserk.xyz/tags/%E9%9A%8F%E7%AC%94/</loc>
@@ -207,6 +263,27 @@
   </url>
   
   <url>
+    <loc>https://www.loserk.xyz/tags/mysql/</loc>
+    <lastmod>2021-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/tags/mysql%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2021-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2021-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.loserk.xyz/tags/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6/</loc>
     <lastmod>2021-09-06</lastmod>
     <changefreq>daily</changefreq>
@@ -234,7 +311,42 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://www.loserk.xyz/tags/reddit/</loc>
+    <lastmod>2021-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/</loc>
+    <lastmod>2021-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/tags/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/</loc>
+    <lastmod>2021-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/tags/%E8%87%AA%E5%8A%A8%E5%A4%87%E4%BB%BD/</loc>
+    <lastmod>2021-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://www.loserk.xyz/categories/%E7%A0%81%E4%B8%80%E7%89%87%E5%A4%A9/</loc>
+    <lastmod>2021-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>https://www.loserk.xyz/categories/%E8%AE%B0%E4%B8%80%E4%BB%B6%E4%BA%8B/</loc>
@@ -252,6 +364,13 @@
   
   <url>
     <loc>https://www.loserk.xyz/categories/%E6%84%9F%E4%B8%80%E7%82%B9%E6%82%9F/</loc>
+    <lastmod>2021-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.loserk.xyz/categories/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2021-09-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
